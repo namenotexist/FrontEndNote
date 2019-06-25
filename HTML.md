@@ -1,0 +1,65 @@
+- 文件后缀名
+    - .html
+- 元素
+    - 文件声明
+        - \<!DOCTYPE html> 
+    - 标题
+        - \<h1> \</h1>
+        - \<h2> \</h2>
+        - \<h3> \</h3>
+        - \<h4> \</h4>
+        - \<h5> \</h5>
+        - \<h6> \</h6>
+    - 段落
+        - \<p>  \</p>
+    - 超链接
+        - \<a href="http://www.runoob.com">这是一个链接\</a>
+    - 图像
+        - \<img src="/images/logo.png" width="258" height="39" />
+    - 换行
+        - \<br>
+    - 水平线
+        - \<hr>
+    - 注释
+        - \<!-- -->
+    - 主体
+        - \<body> \</body>
+    - 文档
+        - \<html> \</html>
+    - 粗体
+        - \<b> \</b>
+        - \<strong> \</strong>
+    - 斜体
+        - \<i> \</i>
+        - \<em> \</em>
+    - 放大
+        - \<big> \</big>
+    - 缩小
+        - \<small> \</small>
+    - 上标
+        - \<sup> \</sup>
+    - 下标
+        - \<sub> \</sub>
+    - 地址
+        - \<address> \</address>
+    - 首字母缩写
+        - \<abbr title="..."> \</abbr>
+        - \<acronym title="..."> \</acronym>
+    - 改变文字方向
+        - \<bdo dir="rtl"> \</bdo>
+    - 引用
+        - \<q> \</q>
+        - \<blockquote> \</blockquote>
+        - \<cite> \</cite>
+
+    - 删除字
+        - \<del> \</del>
+    - 插入字
+        - \<ins> \</ins>
+    
+
+    
+- 属性
+    - HTML元素可以设置属性
+    - 属性一般描述于开始标签
+    - 属性以名称/值对的形式出现：name = "value"
