@@ -1,0 +1,2 @@
+- a repo that include some learning note about front end
+- update since 2019/06/25
